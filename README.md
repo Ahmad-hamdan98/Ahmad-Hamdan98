@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Ahamd
+I am Ahmad Hamdan I have passion in coding , I start programing in Birzeit university ,also I went to Axsos academy for more programing skills.     
+and I made this project to get more experience  .
 
-<!--
-**Ahmad-hamdan98/Ahmad-Hamdan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS /python 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Axsos Academy. 
+- 🌱 I’m currently learning Java 
+- 💬 Ask me about programing 
+- 📫 How to reach me: AhmadHamdan8592@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
